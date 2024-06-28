@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# YVCSE: Youtube Video Comment Sentiment Explorer
+Paste a Youtube video URL and get the sentiment of the comments on the video.
 
-## Getting Started
+## How to use
+1. Clone the repo
+2. Refer to ```.env.example``` and create a ```.env``` file with the required environment variables, You'll need [Google Client API keys](https://beta.hume.ai/) and [HumeAI API keys](https://beta.hume.ai/).
+3. Run ```npm run dev```
+4. Open ```localhost:3000``` in your browser
+5. Enjoy
 
-First, run the development server:
+## Screenshot
+![image](https://drive.google.com/file/d/17dAZIU7fg-XC0fF8asUdLHPieNkQ8Jgd/view?usp=sharing)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![image](https://github.com/anhduy1202/YVCSE/assets/58461444/292713a4-5bd1-4319-b767-067ff226ea30)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Demo
+https://github.com/anhduy1202/YVCSE/assets/58461444/c58daf50-4b27-4d6d-a4c0-abbde7f87531
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Tech Stack
+- Next.js
+- TailwindCSS
+- FastAPI
+- HumeAI
+- Google Cloud API (Youtube API)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Architecture
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img width="1439" alt="Screen Shot 2023-12-05 at 2 38 51 AM" src="https://github.com/anhduy1202/YVCSE/assets/58461444/d4e81060-60f9-46ee-bf8c-4ee3235c10ac">
