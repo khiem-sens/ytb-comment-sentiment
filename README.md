@@ -17,7 +17,7 @@ Paste a Youtube video URL and get the sentiment of the comments on the video.
 
 
 ## Demo
-[![](https://markdown-videos-api.jorgenkh.no/youtube/{J1EbPEi42O8})](https://youtu.be/{J1EbPEi42O8})
+[![](https://img.youtube.com/vi/J1EbPEi42O8/0.jpg)](https://www.youtube.com/watch?v=J1EbPEi42O8)
 
 
 ## Tech Stack
