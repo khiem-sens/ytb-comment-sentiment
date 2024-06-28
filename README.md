@@ -9,14 +9,17 @@ Paste a Youtube video URL and get the sentiment of the comments on the video.
 5. Enjoy
 
 ## Screenshot
-![image](https://github.com/tranthienkhiem2608/ytb-comment-sentiment/blob/main/448641954_1146644936577719_1840201329201379749_n.png?raw=true)
 
 ![image](https://github.com/tranthienkhiem2608/ytb-comment-sentiment/blob/main/448699232_1142095733569596_4762800664344869920_n.png?raw=true)
+
+![image](https://github.com/tranthienkhiem2608/ytb-comment-sentiment/blob/main/448641954_1146644936577719_1840201329201379749_n.png?raw=true)
 
 
 
 ## Demo
-https://github.com/tranthienkhiem2608/ytb-comment-sentiment/blob/main/YTB%20Demo.mp4
+<video width="320" height="240" controls>
+  <source src="https://github.com/tranthienkhiem2608/ytb-comment-sentiment/blob/main/YTB%20Demo.mp4" type="video/mp4">
+</video>
 
 
 ## Tech Stack
