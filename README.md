@@ -9,7 +9,7 @@ Paste a Youtube video URL and get the sentiment of the comments on the video.
 5. Enjoy
 
 ## Screenshot
-![image](https://drive.google.com/file/d/17dAZIU7fg-XC0fF8asUdLHPieNkQ8Jgd/view?usp=sharing)
+![image](https://github.com/tranthienkhiem2608/ytb-comment-sentiment/blob/main/448641954_1146644936577719_1840201329201379749_n.png?raw=true)
 
 ![image](https://github.com/anhduy1202/YVCSE/assets/58461444/292713a4-5bd1-4319-b767-067ff226ea30)
 
