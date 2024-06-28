@@ -18,7 +18,7 @@ Paste a Youtube video URL and get the sentiment of the comments on the video.
 
 ## Demo
 <video width="320" height="240" controls>
-  <source src="https://github.com/tranthienkhiem2608/ytb-comment-sentiment/blob/main/YTB%20Demo.mp4" type="video/mp4">
+  <source src="YTB Demo.mp4" type="video/mp4">
 </video>
 
 
