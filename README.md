@@ -17,7 +17,7 @@ Paste a Youtube video URL and get the sentiment of the comments on the video.
 
 
 ## Demo
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://github.com/tranthienkhiem2608/ytb-comment-sentiment/blob/main/YTB%20Demo.mp4)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/{J1EbPEi42O8})](https://youtu.be/{J1EbPEi42O8})
 
 
 ## Tech Stack
